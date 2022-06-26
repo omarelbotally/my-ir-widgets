@@ -1,12 +1,11 @@
-.recharts-surface {
-  position: relative;
-  left: -36px;
-}
-.chart-section{
-  background-color: #ebebeb;
-  margin: 50px;
-}
+
 .page-title{
   margin-left: 30px ;
   margin:30px;
+
+
+}
+
+html{
+  width: 100%;
 }

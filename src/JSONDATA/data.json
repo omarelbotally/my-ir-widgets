@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "description": "Gross Premiums Written",
+    "chart": 30,
+    "twtw": 1270,
+    "twni": 128700,
+    "twei": 107020,
+    "twse": 109190,
+    "twsix": 187248,
+    "category": "USD"
+  },
+  {
+    "id": 2,
+    "description": "Net surplus from insurance operations",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "USD"
+  },
+  {
+    "id": 3,
+    "description": "Extraordinary income/expense",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "USD"
+  },
+  {
+    "id": 4,
+    "description": "Net income",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "USD"
+  },
+  {
+    "id": 5,
+    "description": "Shares Outstanding1 (Million)",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "USD"
+  },
+  {
+    "id": 6,
+    "description": "Total Shareholders' Equity",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "USD"
+  },
+  {
+    "id": 7,
+    "description": "Gross Premiums Written",
+    "chart": 30,
+    "twtw": 127510,
+    "twni": 125300,
+    "twei": 128020,
+    "twse": 100170,
+    "twsix": 197208,
+    "category": "Riyal"
+  },
+  {
+    "id": 8,
+    "description": "Net surplus from insurance operations",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 1285600,
+    "twei": 1000020,
+    "twse": 109100,
+    "twsix": 197278,
+    "category": "Riyal"
+  },
+  {
+    "id": 9,
+    "description": "Extraordinary income/expense",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "Riyal"
+  },
+  {
+    "id": 10,
+    "description": "Net income",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "Riyal"
+  },
+  {
+    "id": 11,
+    "description": "Shares Outstanding1 (Million)",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "Riyal"
+  },
+
+  {
+    "id": 12,
+    "description": "Total Shareholders' Equity",
+    "chart": 30,
+    "twtw": 127000,
+    "twni": 128000,
+    "twei": 100020,
+    "twse": 109100,
+    "twsix": 187278,
+    "category": "Riyal"
+  }
+]

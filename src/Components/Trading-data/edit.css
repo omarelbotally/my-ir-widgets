@@ -1,0 +1,54 @@
+.trading-data{
+  background-color: #ebebeb;
+  margin: 50px;
+  padding: 50px;
+
+}
+
+.trading-data h2{
+
+  color:#3F5D34 ;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.key{
+  font-size: 25px;
+}
+
+.value{
+  font-size: 25px;
+  font-weight: bold;
+  color:#3F5D34 ;
+
+}
+
+@media (max-width:1440px) and (min-width:768px){
+  .trading-data h2{
+    font-size: 20px;
+  }
+  .key{
+    font-size: 15px;
+  }
+  .value{
+    font-size: 17px;
+  }
+}
+
+@media (max-width:768px) and (min-width:220px){
+  .trading-data h2{
+    font-size: 20px;
+  }
+  .key{
+    font-size: 10px;
+  }
+  .value{
+    font-size: 10px;
+  }
+
+  .trading-data{
+    padding: 20px;
+  }
+}

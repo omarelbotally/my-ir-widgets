@@ -1,0 +1,172 @@
+.financial-highlights{
+margin: 50px;
+background-color: #ebebeb;
+padding: 50px;
+overflow: auto;
+}
+
+.financial-highlights table tbody tr td{
+  text-align: center;
+  font-weight: bold;
+  color: #646263;
+  font-size: 100px;
+}
+
+financial-highlights table tbody tr {
+ border:solid 1px red;
+}
+
+.financial-highlights h2{
+  color: #3F5D34; 
+}
+
+.financial-highlights h4{
+font-weight: bold;
+color: #3F5D34 !important;
+
+
+
+}
+
+
+.fc-bar-chart{
+  font-size: 30px;
+  color: #8EAF84 !important;
+}
+
+#riyal-btn{
+  padding: 10px;
+  font-weight: bold;
+  width: 100px;
+  border: solid 1px  gray;
+  font-size: 20px;
+  color:#646263
+}
+
+
+#usd-btn{
+  padding: 10px;
+  font-weight: bold;
+  width: 100px;
+  border: solid 1px  gray ;
+  font-size: 20px;
+  color:#646263;
+  background-color: #B8C9D1;
+}
+
+#usd-btn:hover{
+  background-color: #B8C9D1;
+
+}
+
+#riyal-btn:hover{
+  background-color: #B8C9D1;
+}
+
+.chart-img{
+ 
+  width: 400px;
+  height: 300px;
+  top:200px;
+  left:700px;
+  z-index:1000000;
+
+}
+
+.pop-img{
+  background-color: #788d7088;
+  width: 100%;
+  height:100%;
+  position: fixed;
+   top:0px;
+   left:0px;
+  display: none;
+  align-items:center;
+  justify-content: center;
+}
+.close{
+ position: absolute;
+ top: 34%;
+ right: 40%;
+ z-index: 10000000000000000000000;
+
+}
+
+.text-right{
+  text-align: right;
+}
+
+.more-from-calendar{
+  font-weight: bold;
+  color : gray;
+  font-size: 20px;
+
+}
+
+.right-arrow{
+  font-weight: bold;
+  font-size: 20px;
+  color:gray;
+}
+
+@media  (min-width:768px) and (max-width:1440px) {
+  .financial-highlights table tbody tr td h5{
+    font-size: 15px !important;
+    
+  }
+  .chart-img{
+    width:90%;
+  }
+  .close{
+    
+    top:18%;
+    right: 10%;
+  }
+  .fc-bar-chart{
+    font-size: 20px;
+  }
+}
+
+@media  (min-width:220px) and (max-width:767px) {
+  .financial-highlights table tbody tr td h5{
+    font-size: 10px !important;
+    
+  }
+  .financial-highlights h4{
+    font-size: 10px;
+  }
+  .fc-bar-chart{
+    font-size: 15px;
+  }
+  .chart-img{
+    width: 90%;
+  }
+  .close{
+    top: 20%;
+    right:10%
+  }
+  #riyal-btn{
+    font-size:10px;
+  }
+  #usd-btn{
+    font-size:10px;
+  }
+
+ 
+
+  .more-from-calendar{
+    font-weight: bold;
+    font-size: 15px;
+  }
+  
+}
+
+
+
+@media  (min-width:1025px) and (max-width:1440px) {
+  .close{
+    top:15%;
+  right:37%;
+  }
+  
+}

@@ -1,0 +1,30 @@
+.profile-info{
+  background-color: #EBEBEB;
+  margin: 50px;
+  padding: 50px;
+}
+
+.profile-info h2{
+  color: #3F5D34;
+  font-weight: bold;
+}
+
+@media (max-width:768px) and (min-width:425px) {
+  .profile-info{
+    font-size: 13px;
+  }
+  .profile-info h2{
+    font-size: 15px;
+  }
+}
+
+@media (max-width:424px) and (min-width:220px) {
+  .profile-info{
+    font-size: 10px;
+    padding: 10px;
+  }
+  .profile-info h2{
+    font-size: 13px;
+  }
+  
+}

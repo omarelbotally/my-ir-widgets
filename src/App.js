@@ -21,9 +21,9 @@ import Subscriptions from "./Pages/Subscriptions/Subscriptions";
 
 const App = () => {
   return (
-    <>
-      <Header />
 
+
+    <><Header />
       <Routes>
         <Route path="/" element={<Overview />} />
         <Route path="/profile" element={<Profile />} />
@@ -36,9 +36,8 @@ const App = () => {
         <Route path="/ratios" element={<Ratios />} />
         <Route path="/corporate" element={<Corporate />} />
         <Route path="/subscriptions" element={<Subscriptions />} />
-      </Routes>
-    </>
-  );
+      </Routes></>
+  )
 };
 
 export default App;
